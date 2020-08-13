@@ -71,6 +71,9 @@
     <Compile Include="Assets\Scenes\Command\Control Multiples Objetos\ComandoMultiplesObjetos.cs" />
     <Compile Include="Assets\Scenes\Command\Control Multiples Objetos\ControladorInput.cs" />
     <Compile Include="Assets\Scenes\Command\Control Multiples Objetos\ObjetoMovible.cs" />
+    <Compile Include="Assets\Scenes\Command\Hacer DesHacer\ComandoV3.cs" />
+    <Compile Include="Assets\Scenes\Command\Hacer DesHacer\ControladorInputV3.cs" />
+    <Compile Include="Assets\Scenes\Command\Hacer DesHacer\ControladorObjeto.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
