@@ -78,6 +78,8 @@
     <Compile Include="Assets\Scenes\Flyweight\Flyweight.cs" />
     <Compile Include="Assets\Scenes\Flyweight\ObjetoBruto.cs" />
     <Compile Include="Assets\Scenes\Flyweight\ObjetoFlyweigth.cs" />
+    <Compile Include="Assets\Scenes\Observador\ControladorInputObservador.cs" />
+    <Compile Include="Assets\Scenes\Observador\ControladorObjetoObservador.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
